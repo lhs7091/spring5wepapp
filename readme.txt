@@ -21,3 +21,7 @@ localhost:8080/console
     4. AuthorRepository Interface
     5. BookRepository Interface
     6. DevBootstrap Interface
+    7. Publisher.java
+    8. PublisherRepository Interface
+    9. DevBootstrap Interface -> publisher 추가
+    
